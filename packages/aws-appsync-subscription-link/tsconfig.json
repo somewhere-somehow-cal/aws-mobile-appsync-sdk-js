@@ -12,7 +12,12 @@
             "esnext.asynciterable",
             "es2017.object"
         ],
-        "skipLibCheck": true
+        "skipLibCheck": true,
+        "paths": {
+            "aws-appsync-auth-link": [
+                "../../aws-appsync-auth-link/src"
+            ]
+        }
     },
     "exclude": [
         "lib",

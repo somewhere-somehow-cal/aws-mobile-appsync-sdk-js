@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { AuthOptions } from "aws-appsync-auth-link";
+import { AuthOptions } from "../../../aws-appsync-auth-link/src";
 import * as ZenObservable from 'zen-observable-ts';
 
 //#region Subscription link enums
