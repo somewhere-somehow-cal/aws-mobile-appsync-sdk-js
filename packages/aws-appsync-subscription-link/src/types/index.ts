@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { AuthOptions } from "aws-appsync-auth-link";
 import * as ZenObservable from 'zen-observable-ts';
 

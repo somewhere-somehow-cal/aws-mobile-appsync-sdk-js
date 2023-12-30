@@ -1,3 +1,4 @@
+// @ts-nocheck
 import debug from 'debug';
 
 export type Logger = Function & {

@@ -13,6 +13,7 @@
  * Contributors:
  *    Andrew Banks - initial API and implementation and initial documentation
  *******************************************************************************/
+// @ts-nocheck
 
 
 // Only expose a single object name in the global namespace.

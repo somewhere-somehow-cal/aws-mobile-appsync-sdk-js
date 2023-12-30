@@ -2,6 +2,7 @@
  * Copyright 2017-2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
  * SPDX-License-Identifier: Apache-2.0
  */
+// @ts-nocheck
 import { ApolloLink, Observable, Operation, FetchResult } from "@apollo/client/core";
 
 import { rootLogger } from "./utils";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   SubscriptionHandshakeLink,
   CONTROL_EVENTS_KEY

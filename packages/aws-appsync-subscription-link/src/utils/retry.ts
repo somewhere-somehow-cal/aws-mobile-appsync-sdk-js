@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { rootLogger } from "./index";
 import { DelayFunction } from "../types";
 

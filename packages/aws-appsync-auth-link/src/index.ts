@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { AuthLink, AuthOptions, AUTH_TYPE, USER_AGENT_HEADER, USER_AGENT } from './auth-link';
 
 

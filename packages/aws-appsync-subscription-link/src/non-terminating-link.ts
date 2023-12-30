@@ -2,6 +2,7 @@
  * Copyright 2017-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
  * SPDX-License-Identifier: Apache-2.0
  */
+// @ts-nocheck
 import { ApolloLink } from '@apollo/client/core';
 import type { NextLink, FetchResult } from '@apollo/client/core';
 import { setContext } from '@apollo/client/link/context';

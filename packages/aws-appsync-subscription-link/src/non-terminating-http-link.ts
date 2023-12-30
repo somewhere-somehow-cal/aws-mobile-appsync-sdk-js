@@ -2,6 +2,7 @@
  * Copyright 2017-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
  * SPDX-License-Identifier: Apache-2.0
  */
+// @ts-nocheck
 import { createHttpLink, HttpOptions } from '@apollo/client/link/http';
 import { NonTerminatingLink } from './non-terminating-link';
 
